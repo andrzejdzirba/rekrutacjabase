@@ -117,3 +117,7 @@ npm run test:unit    # Uruchom testy jednostkowe (Store, App, Details View)
   - Color contrast (WCAG AA)
 
 ---
+
+## 🚀 Demo
+
+**Live:** [https://rekrutacjabase.netlify.app](https://rekrutacjabase.netlify.app)
