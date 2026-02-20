@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "customerName": "Piotr Nowak",
+    "subject": "Problemy z logowaniem",
+    "description": "Nie mogę zalogować się do systemu od wczoraj",
+    "priority": "high",
+    "status": "new",
+    "createdAt": "2026-02-13T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "customerName": "Anna Wiśniewska",
+    "subject": "Problem z aplikacją mobilną",
+    "description": "Nie mogę zalogować się do aplikacji mobilnej",
+    "priority": "medium",
+    "status": "new",
+    "createdAt": "2026-02-12T15:45:00Z"
+  },
+  {
+    "id": 3,
+    "customerName": "Marek Wójcik",
+    "subject": "Problem z transakcją",
+    "description": "Klient kwestionuje wysokość opłaty transakcyjnej - transakcja nr 7721542 - proszę sprawdzić",
+    "priority": "high",
+    "status": "new",
+    "createdAt": "2026-02-11T09:15:00Z"
+  },
+  {
+    "id": 4,
+    "customerName": "Katarzyna Kowalska",
+    "subject": "Problem z generowanie faktury klienta",
+    "description": "Klikam w przycisk generowania dokumentu i nic się nie dzieje.",
+    "priority": "low",
+    "status": "new",
+    "createdAt": "2026-02-10T12:00:00Z"
+  },
+  {
+    "id": 5,
+    "customerName": "Andrzej Mazur",
+    "subject": "Problem z danemi",
+    "description": "Nie widzę w systemie transakcji które dodałem wczoraj, proszę o pomoc",
+    "priority": "medium",
+    "status": "new",
+    "createdAt": "2026-02-09T14:20:00Z"
+  },
+  {
+    "id": 6,
+    "customerName": "Małgorzata Kaczmarek",
+    "subject": "Problem z aplikacją mobilną",
+    "description": "Nie mogę zalogować się do aplikacji mobilnej",
+    "priority": "high",
+    "status": "in_progress",
+    "createdAt": "2026-02-08T08:10:00Z"
+  },
+  {
+    "id": 7,
+    "customerName": "Janusz Krawczyk",
+    "subject": "Problemy z logowaniem",
+    "description": "Nie mogę zalogować się do systemu od wczoraj",
+    "priority": "medium",
+    "status": "in_progress",
+    "createdAt": "2026-02-06T16:50:00Z"
+  },
+  {
+    "id": 8,
+    "customerName": "Barbara Lewandowska",
+    "subject": "Problem z transakcją",
+    "description": "Klient kwestionuje wysokość opłaty transakcyjnej - transakcja nr 8829103 - proszę sprawdzić",
+    "priority": "low",
+    "status": "in_progress",
+    "createdAt": "2026-02-05T11:30:00Z"
+  },
+  {
+    "id": 9,
+    "customerName": "Tomasz Zieliński",
+    "subject": "Problem z generowanie faktury klienta",
+    "description": "Klikam w przycisk generowania dokumentu i nic się nie dzieje.",
+    "priority": "high",
+    "status": "in_progress",
+    "createdAt": "2026-02-03T10:00:00Z"
+  },
+  {
+    "id": 10,
+    "customerName": "Ewa Szymańska",
+    "subject": "Problemy z logowaniem",
+    "description": "Nie mogę zalogować się do systemu od wczoraj",
+    "priority": "medium",
+    "status": "closed",
+    "createdAt": "2026-02-01T09:00:00Z"
+  },
+  {
+    "id": 11,
+    "customerName": "Paweł Woźniak",
+    "subject": "Problem z danemi",
+    "description": "Nie widzę w systemie transakcji które dodałem wczoraj, proszę o pomoc",
+    "priority": "low",
+    "status": "closed",
+    "createdAt": "2026-01-30T15:20:00Z"
+  },
+  {
+    "id": 12,
+    "customerName": "Magdalena Dąbrowska",
+    "subject": "Problem z aplikacją mobilną",
+    "description": "Nie mogę zalogować się do aplikacji mobilnej",
+    "priority": "high",
+    "status": "closed",
+    "createdAt": "2026-01-28T14:10:00Z"
+  },
+  {
+    "id": 13,
+    "customerName": "Krzysztof Kozłowski",
+    "subject": "Problem z transakcją",
+    "description": "Klient kwestionuje wysokość opłaty transakcyjnej - transakcja nr 1122334 - proszę sprawdzić",
+    "priority": "medium",
+    "status": "closed",
+    "createdAt": "2026-01-26T10:45:00Z"
+  },
+  {
+    "id": 14,
+    "customerName": "Zofia Jankowska",
+    "subject": "Problem z generowanie faktury klienta",
+    "description": "Klikam w przycisk generowania dokumentu i nic się nie dzieje.",
+    "priority": "high",
+    "status": "closed",
+    "createdAt": "2026-01-24T08:30:00Z"
+  },
+  {
+    "id": 15,
+    "customerName": "Marcin Kwiatkowski",
+    "subject": "Problemy z logowaniem",
+    "description": "Nie mogę zalogować się do systemu od wczoraj",
+    "priority": "low",
+    "status": "closed",
+    "createdAt": "2026-01-22T16:00:00Z"
+  },
+  {
+    "id": 16,
+    "customerName": "Monika Grabowska",
+    "subject": "Problem z danemi",
+    "description": "Nie widzę w systemie transakcji które dodałem wczoraj, proszę o pomoc",
+    "priority": "medium",
+    "status": "closed",
+    "createdAt": "2026-01-20T12:00:00Z"
+  },
+  {
+    "id": 17,
+    "customerName": "Robert Zając",
+    "subject": "Problem z aplikacją mobilną",
+    "description": "Nie mogę zalogować się do aplikacji mobilnej",
+    "priority": "high",
+    "status": "closed",
+    "createdAt": "2026-01-18T09:15:00Z"
+  },
+  {
+    "id": 18,
+    "customerName": "Joanna Król",
+    "subject": "Problem z transakcją",
+    "description": "Klient kwestionuje wysokość opłaty transakcyjnej - transakcja nr 9988776 - proszę sprawdzić",
+    "priority": "low",
+    "status": "closed",
+    "createdAt": "2026-01-16T14:40:00Z"
+  },
+  {
+    "id": 19,
+    "customerName": "Adam Michalski",
+    "subject": "Problem z generowanie faktury klienta",
+    "description": "Klikam w przycisk generowania dokumentu i nic się nie dzieje.",
+    "priority": "medium",
+    "status": "closed",
+    "createdAt": "2026-01-14T11:20:00Z"
+  },
+  {
+    "id": 20,
+    "customerName": "Natalia Wieczorek",
+    "subject": "Problemy z logowaniem",
+    "description": "Nie mogę zalogować się do systemu od wczoraj",
+    "priority": "high",
+    "status": "closed",
+    "createdAt": "2026-01-12T10:00:00Z"
+  },
+  {
+    "id": 21,
+    "customerName": "Łukasz Dudek",
+    "subject": "Problem z danemi",
+    "description": "Nie widzę w systemie transakcji które dodałem wczoraj, proszę o pomoc",
+    "priority": "low",
+    "status": "closed",
+    "createdAt": "2026-01-10T15:30:00Z"
+  },
+  {
+    "id": 22,
+    "customerName": "Marta Adamczyk",
+    "subject": "Problem z aplikacją mobilną",
+    "description": "Nie mogę zalogować się do aplikacji mobilnej",
+    "priority": "medium",
+    "status": "closed",
+    "createdAt": "2026-01-08T08:50:00Z"
+  },
+  {
+    "id": 23,
+    "customerName": "Grzegorz Majewski",
+    "subject": "Problem z transakcją",
+    "description": "Klient kwestionuje wysokość opłaty transakcyjnej - transakcja nr 5544332 - proszę sprawdzić",
+    "priority": "high",
+    "status": "closed",
+    "createdAt": "2026-01-06T13:10:00Z"
+  },
+  {
+    "id": 24,
+    "customerName": "Aleksandra Nowakowska",
+    "subject": "Problem z generowanie faktury klienta",
+    "description": "Klikam w przycisk generowania dokumentu i nic się nie dzieje.",
+    "priority": "low",
+    "status": "closed",
+    "createdAt": "2026-01-04T10:20:00Z"
+  },
+  {
+    "id": 25,
+    "customerName": "Dariusz Stępień",
+    "subject": "Problemy z logowaniem",
+    "description": "Nie mogę zalogować się do systemu od wczoraj",
+    "priority": "medium",
+    "status": "closed",
+    "createdAt": "2026-01-03T09:40:00Z"
+  },
+  {
+    "id": 26,
+    "customerName": "Beata Sikora",
+    "subject": "Problem z danemi",
+    "description": "Nie widzę w systemie transakcji które dodałem wczoraj, proszę o pomoc",
+    "priority": "high",
+    "status": "closed",
+    "createdAt": "2026-01-02T16:15:00Z"
+  },
+  {
+    "id": 27,
+    "customerName": "Mariusz Malinowski",
+    "subject": "Problem z aplikacją mobilną",
+    "description": "Nie mogę zalogować się do aplikacji mobilnej",
+    "priority": "low",
+    "status": "closed",
+    "createdAt": "2026-01-01T12:00:00Z"
+  }
+]
