@@ -97,7 +97,7 @@ npm run test:unit    # Uruchom testy jednostkowe (Store, App, Details View)
 - ✓ **Tech**
   - Typescript - deklaracja typów danych
   - Bootstrap do podstawowej responsywności (zaimportowane jedynie używane komponenty)
-  - .env definiuje środowisko (mock / production) i ścieżki dla fetch - w trybie mock pobieramy wszystkie dane do store i pracujemy na nich
+  - .env definiuje środowisko (mock / production) i ścieżki dla fetch - w trybie mock pobieramy wszystkie dane do store i pracujemy na nich. W mock mamy jedną zmienną dodatkową mockTickets która przechowuje wszystkie tickety, oraz zmienną tickets, kóra zawiera tickety w aktualnym widoku. Dodałem dummy calle do API które zwracało by dane, w opcji production mockTickets jest pomijana, i w tablicy tickets mamy tylko tyle ticketów ile wynika ze stronicowania.
   - Testy
 
 - ✓ **Funkcjonalności**
